@@ -9,4 +9,4 @@
   
   
 The analytical method using Markov chain required too much mental gymnastics at the time.
-This will be another one of those projects that I will probably never fix unless my interest in it get's reignited
+This will be another one of those projects that I will probably never update unless my interest in it get's reignited
